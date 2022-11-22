@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed-Sohail-26
 - 👀 I’m interested in ***WEB DEVELOPMENT & MACHINE LEARNING***
 - 🌱 I’m currently learning ***DJANGO FRAMEWORK***
-- ⚡ SKILLS - ***JAVA , C PROGRAMMING , HTML&CSS , BOOTSTRAP , DATA STRUCTURES , Basics of DBMS***
+- ⚡ SKILLS - ***JAVA , C PROGRAMMING , PYTHON , HTML&CSS , BOOTSTRAP , DATA STRUCTURES , Basics of DBMS***
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https:/www.linkedin.com/in/syed-sohail-ahmed-8a7420200)
 
 
