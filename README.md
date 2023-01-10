@@ -12,7 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Sohail-26&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Sohail-26&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sohail-26&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+## <a href="https://www.leetcode.com/syed_sohail_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed_sohail_26" height="30" width="40" /></a>Leet Code:
+![LeetCode Stats](https://leetcode.card.workers.dev/Syed_Sohail_26?theme=unicorn&font=source_code_pro&extension=null)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
