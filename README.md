@@ -10,7 +10,7 @@ I'm a software engineer with hands-on experience building production application
 **Frontend:** Angular, React, HTML/CSS, Bootstrap  
 **Backend:** Flask, RESTful APIs, Node.js  
 **Databases:** MySQL, MongoDB  
-**Tools & Practices:** Git, CI/CD, JIRA, Agile/Scrum, OOP
+**Tools & Practices:** Git, CI/CD, JIRA, Agile/Scrum, OOP, AWS (EC2, IAM, S3 – foundational)
 
 ## 💼 Professional Experience
 
