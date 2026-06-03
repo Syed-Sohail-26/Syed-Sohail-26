@@ -46,10 +46,11 @@ Multithreaded task scheduler with persistence layer
 - **Tech:** Java, Multithreading, JDBC, OOP
 - **Features:** Concurrent execution, thread pools, database persistence
 
-###[AI CoPilot Assistant]
+### [AI CoPilot Assistant](https://github.com/Syed-Sohail-26)
 An AI-powered assistant leveraging LLM APIs, prompt engineering, and serverless infrastructure to automate information retrieval and support scalable user interactions
 - **Tech:** Cloudflare Workers · JavaScript · REST APIs · LLMs
 - **Features:** Serverless architecture, AI-powered query processing, scalable API integration, automated information retrieval
+  
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-sohail-ahmed-8a7420200)
