@@ -1,8 +1,8 @@
 # Hi, I'm Syed Sohail Ahmed 👋
 
-**Software Engineer | Master's in Computer Science @ East Texas A&M University | Graduating May 2026**
+**Software Engineer | Master's in Computer Science @ East Texas A&M University |**
 
-I'm a software engineer with hands-on experience building production applications for enterprise clients. I specialize in full-stack development, with expertise in Angular, React, Python, and Java.
+I'm a Software Developer with 1+ year of industry experience building scalable full-stack applications, backend services, and data-driven solutions. Proficient in Java, Python, SQL, Angular, and REST APIs, with experience in cloud technologies, machine learning, and software development lifecycle (SDLC). Strong foundation in data structures, algorithms, system design, and performance optimization, with a proven ability to deliver reliable and user-focused software solutions.
 
 ## 🔧 Technical Skills
 
@@ -13,6 +13,10 @@ I'm a software engineer with hands-on experience building production application
 **Tools & Practices:** Git, CI/CD, JIRA, Agile/Scrum, OOP, AWS (EC2, IAM, S3 – foundational)
 
 ## 💼 Professional Experience
+**Graduate Data Analyst** (Jan 2025 – May 2026)
+- Developed Python scripts to automate the extraction, cleaning, and analysis of institutional datasets, reducing manual processing time and improving data     pipeline efficiency for research and administrative workflows.
+- Built and maintained interactive data visualizations and dashboards to track key performance indicators, applying software development best practices such as version control (Git) and modular code structure for maintainability.
+
 
 **Software Developer @ Jio Platforms Limited** (Dec 2023 - June 2024)
 - Developed Angular-based CRM applications serving enterprise users
@@ -42,6 +46,10 @@ Multithreaded task scheduler with persistence layer
 - **Tech:** Java, Multithreading, JDBC, OOP
 - **Features:** Concurrent execution, thread pools, database persistence
 
+###[AI CoPilot Assistant]
+An AI-powered assistant leveraging LLM APIs, prompt engineering, and serverless infrastructure to automate information retrieval and support scalable user interactions
+- **Tech:** Cloudflare Workers · JavaScript · REST APIs · LLMs
+- **Features:** Serverless architecture, AI-powered query processing, scalable API integration, automated information retrieval
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-sohail-ahmed-8a7420200)
