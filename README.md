@@ -13,7 +13,7 @@ I'm a Software Developer with 1+ year of industry experience building scalable f
 **Tools & Practices:** Git, CI/CD, JIRA, Agile/Scrum, OOP, AWS (EC2, IAM, S3 – foundational)
 
 ## 💼 Professional Experience
-**Graduate Data Analyst** (Jan 2025 – May 2026)
+**Graduate Data Analyst @ East Texas A&M University** (Jan 2025 – May 2026)
 - Developed Python scripts to automate the extraction, cleaning, and analysis of institutional datasets, reducing manual processing time and improving data     pipeline efficiency for research and administrative workflows.
 - Built and maintained interactive data visualizations and dashboards to track key performance indicators, applying software development best practices such as version control (Git) and modular code structure for maintainability.
 
