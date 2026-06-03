@@ -1,6 +1,6 @@
 # Hi, I'm Syed Sohail Ahmed 👋
 
-**Software Engineer | Master's in Computer Science @ East Texas A&M University |**
+**Software Engineer Seeking SDE Opportunities | Building Scalable Applications with Java, Python & Cloud Technologies|**
 
 I'm a Software Developer with 1+ year of industry experience building scalable full-stack applications, backend services, and data-driven solutions. Proficient in Java, Python, SQL, Angular, and REST APIs, with experience in cloud technologies, machine learning, and software development lifecycle (SDLC). Strong foundation in data structures, algorithms, system design, and performance optimization, with a proven ability to deliver reliable and user-focused software solutions.
 
