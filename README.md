@@ -1,10 +1,27 @@
+<div align="center">
+
 # Hi, I'm Syed Sohail Ahmed 👋
 
-**Full-Stack Software Engineer | Agentic AI & RAG Systems | Java/Spring Boot, React, AWS**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Agentic+AI+%26+RAG+Systems;Java+%2F+Spring+Boot+%C2%B7+React+%C2%B7+AWS;M.S.+Computer+Science+Candidate" alt="Typing SVG" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sohail-ahmed-basheer-8a7420200/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsohailahmed50@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/syed_sohail_26)
+![Profile Views](https://komarev.com/ghpvc/?username=Syed-Sohail-26&style=for-the-badge&color=1F3864&label=Profile+Views)
+
+</div>
 
 M.S. Computer Science candidate and full-stack engineer with 3+ years building production web applications, REST APIs, and cloud-native systems. Recent focus on Agentic AI and Retrieval-Augmented Generation (RAG) with LangChain/LangGraph, alongside distributed systems work with Kafka, Redis, and Spring Boot. Proven track record shipping features that improve performance, reliability, and developer velocity across Agile teams.
 
 ## 🔧 Technical Skills
+
+<div align="center">
+
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Spring](https://skillicons.dev/icons?i=spring) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kafka](https://skillicons.dev/icons?i=kafka) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions)
+
+</div>
 
 **Languages:** Java, Python, TypeScript, JavaScript, SQL
 **Frontend:** React.js, Next.js, Redux Toolkit, HTML5, CSS3, Bootstrap
@@ -61,29 +78,33 @@ Machine learning model predicting equipment failure in industrial plants.
 Real-time sentiment analysis with interactive visualization.
 - **Tech:** Python, Flask, React, REST APIs
 
-### [High-Performance Task Scheduler](https://github.com/Syed-Sohail-26/java-task-scheduler)
-Multithreaded task scheduler with a persistence layer.
+### [High-Performance Task Scheduler](https://github.com/Syed-Sohail-26/Java-Task-Scheduler)
+Multithreaded task scheduler with JDBC-backed persistence, priority queues, and execution history tracking.
 - **Tech:** Java, Multithreading, JDBC, OOP
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Sohail-26&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Syed-Sohail-26&theme=default&background=FFFFFF00&border=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sohail-26&layout=compact&theme=transparent&title_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" alt="Top Languages" />
+
+</div>
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sohail-ahmed-basheer-8a7420200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsohailahmed50@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/syed_sohail_26)
 
 ---
 
-💡 Open to full-time Software Engineer / Full-Stack Developer roles starting May 2026
+<div align="center">
 
-## <a href="https://www.leetcode.com/syed_sohail_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed_sohail_26" height="30" width="40" /></a>LeetCode:
-![LeetCode Stats](https://leetcode.card.workers.dev/Syed_Sohail_26?theme=unicorn&font=source_code_pro&extension=null)
+💡 **Open to full-time Software Engineer / Full-Stack Developer roles starting May 2026**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-##### 🤝 Have a Great Day
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
 <!---
