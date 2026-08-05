@@ -82,14 +82,11 @@ Real-time sentiment analysis with interactive visualization.
 Multithreaded task scheduler with JDBC-backed persistence, priority queues, and execution history tracking.
 - **Tech:** Java, Multithreading, JDBC, OOP
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Sohail-26&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Syed-Sohail-26&theme=default&background=FFFFFF00&border=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sohail-26&layout=compact&theme=transparent&title_color=1F3864&text_color=333333&border_color=1F3864&hide_border=false" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Syed-Sohail-26&theme=default&background=FFFFFF00&border=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="GitHub Streak" />
 
 </div>
 
