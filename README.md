@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sohail-ahmed-basheer-8a7420200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsohailahmed50@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/syed_sohail_26)
-![Profile Views](https://komarev.com/ghpvc/?username=Syed-Sohail-26&style=for-the-badge&color=1F3864&label=Profile+Views)
 
 </div>
 
@@ -23,12 +22,12 @@ M.S. Computer Science candidate and full-stack engineer with 3+ years building p
 
 </div>
 
-**Languages:** Java, Python, TypeScript, JavaScript, SQL
-**Frontend:** React.js, Next.js, Redux Toolkit, HTML5, CSS3, Bootstrap
-**Backend:** Spring Boot, REST APIs, Node.js, Microservices
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
-**Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kafka, Git, GitHub Actions, CI/CD
-**Generative AI:** LLM Applications, RAG, Agentic AI, LangChain, LangGraph, Vector Databases, Prompt Engineering
+**Languages:** Java, Python, TypeScript, JavaScript, SQL<br>
+**Frontend:** React.js, Next.js, Redux Toolkit, HTML5, CSS3, Bootstrap<br>
+**Backend:** Spring Boot, REST APIs, Node.js, Microservices<br>
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis<br>
+**Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kafka, Git, GitHub Actions, CI/CD<br>
+**Generative AI:** LLM Applications, RAG, Agentic AI, LangChain, LangGraph, Vector Databases, Prompt Engineering<br>
 **Practices:** Agile/Scrum, SDLC, OOP, Design Patterns, System Design
 
 ## 💼 Professional Experience
@@ -73,34 +72,24 @@ Kafka-backed platform executing asynchronous background jobs with automatic retr
 ### [Predictive Maintenance AI Model](https://github.com/Syed-Sohail-26/predictive-maintenance-ai)
 Machine learning model predicting equipment failure in industrial plants.
 - **Tech:** Python, TensorFlow, LSTM, Random Forests — 92% accuracy, 15% reduction in potential downtime costs
-
+- **Highlights:** Hybrid LSTM + Random Forest ensemble for time-series failure prediction; includes feature engineering and statistical anomaly detection alongside the classifier; supports real-time prediction on incoming sensor data.
+  
 ### [AI-Powered Sentiment Analysis Dashboard](https://github.com/Syed-Sohail-26/sentiment-analysis-dashboard)
 Real-time sentiment analysis with interactive visualization.
 - **Tech:** Python, Flask, React, REST APIs
+- **Highlights:** Hybrid VADER + custom-trained model ensemble (87% accuracy, 0.86 F1) for social and formal text; REST API supports single-text, batch, and historical sentiment queries; React + Chart.js dashboard for real-time trend visualization.
 
 ### [High-Performance Task Scheduler](https://github.com/Syed-Sohail-26/Java-Task-Scheduler)
 Multithreaded task scheduler with JDBC-backed persistence, priority queues, and execution history tracking.
 - **Tech:** Java, Multithreading, JDBC, OOP
+- **Highlights:** Concurrent task execution via Java ExecutorService with configurable thread pools; JDBC/MySQL-backed persistence for task state, priority queues, and full execution history; graceful shutdown with proper resource cleanup.
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Syed-Sohail-26&theme=default&background=FFFFFF00&border=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" alt="GitHub Streak" />
-
-</div>
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sohail-ahmed-basheer-8a7420200/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedsohailahmed50@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/syed_sohail_26)
 
 ---
 
 <div align="center">
 
-💡 **Open to full-time Software Engineer / Full-Stack Developer roles starting May 2026**
+💡 **Open to full-time Software Engineer / Full-Stack Developer roles starting at the moment**
 
 </div>
 
