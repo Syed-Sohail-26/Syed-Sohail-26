@@ -12,7 +12,7 @@
 
 </div>
 
-M.S. Computer Science candidate and full-stack engineer with 3+ years building production web applications, REST APIs, and cloud-native systems. Recent focus on Agentic AI and Retrieval-Augmented Generation (RAG) with LangChain/LangGraph, alongside distributed systems work with Kafka, Redis, and Spring Boot. Proven track record shipping features that improve performance, reliability, and developer velocity across Agile teams.
+Full-Stack Software Engineer with around 4 years of experience building production web applications, REST APIs, enterprise platforms, and cloud-native systems. Experienced across React, Next.js, TypeScript, Java, Spring Boot, Python, PostgreSQL, Redis, Kafka, Docker, and AWS. Recent focus on Agentic AI, LLM applications, and Retrieval-Augmented Generation (RAG) using LangChain and LangGraph, with hands-on work in distributed systems, event-driven architectures, and scalable backend services. Focused on building reliable software, improving performance, and shipping production-ready solutions across Agile engineering teams.
 
 ## 🔧 Technical Skills
 
@@ -32,26 +32,30 @@ M.S. Computer Science candidate and full-stack engineer with 3+ years building p
 
 ## 💼 Professional Experience
 
-**Graduate Application Developer @ East Texas A&M University** (Jan 2025 – May 2026)
-- Cut manual data-processing time by 40% by engineering Python-based ETL automation pipelines for institutional datasets.
-- Built interactive Power BI dashboards and REST API integrations to streamline research and administrative workflows.
+**Software Engineer @ Fidelity Investments** (Jan 2026 – May 2026)
 
-**Product Engineer Intern @ PostHog** (Apr 2025 – Nov 2025)
-- Shipped user-facing features for a production cloud-based analytics platform using React, Next.js, TypeScript, and REST APIs.
-- Improved frontend performance by engineering reusable components with optimized state management and async API integration.
+- Developed and shipped customer-facing web application features using React, Next.js, TypeScript, and REST APIs from design through testing and deployment.
+- Built responsive single-page applications with React Hooks and optimized API integration, testing, and production workflows.
+
+**Software Developer @ Texas A&M University** (Aug 2024 – May 2026)
+
+- Engineered Python-based ETL pipelines to extract, transform, and consolidate institutional datasets, reducing manual data-processing time by 40%.
+- Developed backend services, REST API integrations, SQL workflows, and Power BI dashboards supporting academic and administrative operations.
 
 **Software Developer @ Jio Platforms Limited** (Jun 2023 – Jul 2024)
-- Built scalable CRM applications with React, TypeScript, Redux Toolkit, and REST APIs, improving customer workflow responsiveness.
-- Reduced redundant API calls and boosted frontend performance through optimized state management.
 
-**Software Development Intern @ VY Systems** (Jan 2023 – Jun 2023)
-- Delivered a full-stack e-commerce platform (Java, JSP, MySQL, REST APIs) with secure auth, product management, and order processing.
-- Improved application response time by optimizing SQL queries and backend business logic.
+- Developed scalable CRM applications using React, TypeScript, Redux Toolkit, and REST APIs for enterprise telecom workflows.
+- Built reusable React components, optimized state management and SQL-backed services, and integrated real-time data synchronization across backend systems.
 
-**Software Consulting Intern @ EY** (Jul 2022 – Dec 2022)
-- Built Python/SQL automation workflows to extract, transform, and validate enterprise datasets, cutting manual reporting effort.
-- Built interactive Power BI dashboards for real-time operational KPI monitoring.
+**Software Developer @ VY Systems** (July 2022 – May 2023)
 
+- Developed a full-stack e-commerce application with Java, JSP, MySQL, authentication, product catalog, and order-processing workflows.
+- Optimized SQL queries and backend business logic to improve application performance and support transactional workflows.
+
+**Software Consulting Intern @ EY** (Jan 2022 – Feb 2022)
+
+- Built Python and SQL automation workflows for extracting, transforming, validating, and processing enterprise datasets.
+- Developed interactive Power BI dashboards for operational KPI monitoring and business reporting.
 ## 🚀 Featured Projects
 
 ### [AI Enterprise Copilot](https://github.com/Syed-Sohail-26/Ai-enterprise-copilot)
