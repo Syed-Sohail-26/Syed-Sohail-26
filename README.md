@@ -32,12 +32,12 @@ Full-Stack Software Engineer with around 4 years of experience building producti
 
 ## 💼 Professional Experience
 
-**Software Engineer @ Fidelity Investments** (Jan 2026 – May 2026)
+**Software Engineer @ Fidelity Investments** (Jan 2025 – May 2026)
 
 - Developed and shipped customer-facing web application features using React, Next.js, TypeScript, and REST APIs from design through testing and deployment.
 - Built responsive single-page applications with React Hooks and optimized API integration, testing, and production workflows.
 
-**Software Developer @ Texas A&M University** (Aug 2024 – May 2026)
+**Software Developer @ Texas A&M University** (Aug 2024 – Dec 2024)
 
 - Engineered Python-based ETL pipelines to extract, transform, and consolidate institutional datasets, reducing manual data-processing time by 40%.
 - Developed backend services, REST API integrations, SQL workflows, and Power BI dashboards supporting academic and administrative operations.
@@ -47,7 +47,7 @@ Full-Stack Software Engineer with around 4 years of experience building producti
 - Developed scalable CRM applications using React, TypeScript, Redux Toolkit, and REST APIs for enterprise telecom workflows.
 - Built reusable React components, optimized state management and SQL-backed services, and integrated real-time data synchronization across backend systems.
 
-**Software Developer @ VY Systems** (July 2022 – May 2023)
+**Software Developer @ VY Systems** (July 2021 – May 2023)
 
 - Developed a full-stack e-commerce application with Java, JSP, MySQL, authentication, product catalog, and order-processing workflows.
 - Optimized SQL queries and backend business logic to improve application performance and support transactional workflows.
